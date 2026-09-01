@@ -9,7 +9,7 @@ All Rights Reserved.
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
 <p align="center">
-  <img src="Images/preview.png" alt="UDIM Preview Generator Preview" width="32%">
+  <img src="Images/preview.png" alt="UDIM Preview Generator Preview" width="92%">
 </p>
 
 **UDIM Preview Generator for Maya** is a one-click tool for generating preview textures for UDIM-based texture workflows inside Autodesk Maya.
