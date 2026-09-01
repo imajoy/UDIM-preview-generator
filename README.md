@@ -1,4 +1,5 @@
-Copyright © 2026 Ajoy Pal
+[Copyright](LICENSE.md) © 2026 **Ajoy Pal**
+
 All Rights Reserved.
 
 # UDIM Preview Generator for Maya
