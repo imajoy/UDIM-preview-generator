@@ -1,3 +1,6 @@
+Copyright © 2026 Ajoy Pal / AJOY
+All Rights Reserved.
+
 # UDIM Preview Generator for Maya
 
 ![Maya](https://img.shields.io/badge/Autodesk%20Maya-2018%2B-blue)
